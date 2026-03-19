@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gilbertocweg
 - 👀 I’m interested in Embedded Power systmes
-- 🌱 I’m currently learning ARM and FREERTOS
+- 🌱 
 - 💞️ I’m looking to collaborate on WEG
 - 📫 How to reach me 
 
